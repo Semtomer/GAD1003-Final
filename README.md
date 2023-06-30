@@ -4,8 +4,8 @@ This repository is the final project of the GAD1003 Basics of Programming course
 This project is a console game.
 
 Contributors to the project:      
-https://github.com\semtomer - Tolga YILMAZ      
-Umut Koray Özyer
+https://github.com/Semtomer - Tolga YILMAZ      
+https://www.instagram.com/umt.k0ry - Umut Koray Özyer
 
 The details of the given project are as follows:    
 There is a betting game with 3 games.
