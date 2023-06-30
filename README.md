@@ -7,7 +7,9 @@ Contributors to the project:
 https://github.com/Semtomer - Tolga YILMAZ      
 https://www.instagram.com/umt.k0ry - Umut Koray Özyer
 
-The details of the given project are as follows:    
+The details of the given project are as follows:      
+
+Final Project      
 There is a betting game with 3 games.
 
 The first game is Horse racing. In the game, the player bets on 8 different odds on 8 different horses.
